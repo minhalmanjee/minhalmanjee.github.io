@@ -6,7 +6,7 @@
 
 main:
   - title: "Projects"
-    url: /projects/    
+    url: /_projects/projects.md   
 
   - title: "Experiences"
     url: /experiences/    
