@@ -22,7 +22,7 @@ I was [featured](https://www.linkedin.com/posts/fast-nuces-karachi_fastnuces-con
 <br>
 I have participated in multiple AI International Hackathons, particularly:
 <br>
-[Falcon AI71 Hackathon 2024](https://lablab.ai/u/@M4xash/cm0gxv92s00ac8ztm2gwf0z0a), where I developed a real-time mental health coach application in collaboration with an international team utilizing AI71 Hub Model to support multiple personalities.
+ > [Falcon AI71 Hackathon 2024](https://lablab.ai/u/@M4xash/cm0gxv92s00ac8ztm2gwf0z0a), where I developed a real-time mental health coach application in collaboration with      an international team utilizing AI71 Hub Model to support multiple personalities.
 <br>
-[Llama 3 Hackathon](https://lablab.ai/u/@M4xash/cm0fgv76z004o7hkwcdcv0zte), where I collaborated to build an AI news analyzer with two agents, News Editor and News Analyst, to identify and improve content readability.
+ > [Llama 3 Hackathon](https://lablab.ai/u/@M4xash/cm0fgv76z004o7hkwcdcv0zte), where I collaborated to build an AI news analyzer with two agents, News Editor and News           Analyst, to identify and improve content readability.
 
