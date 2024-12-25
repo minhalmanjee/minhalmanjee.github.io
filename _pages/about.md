@@ -25,8 +25,10 @@ I have participated in multiple AI International Hackathons, particularly:
 <br>
  > [Llama 3 Hackathon](https://lablab.ai/u/@M4xash/cm0fgv76z004o7hkwcdcv0zte), where I collaborated to build an AI news analyzer with two agents, News Editor and News           Analyst, to identify and improve content readability.
 <br>
+<br>
 Here are a few technologies I've been working with recently:
-> C/C++  > Python
+<br>
+C/C++  > Python
 <br>
 > Yolov8  > Roboflow
 <br>
