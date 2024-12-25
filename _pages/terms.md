@@ -1,7 +1,6 @@
 ---
 permalink: /experiences/
 title: "Experiences"
-modified: 2016-06-06
 ---
 
 {% include base_path %}
