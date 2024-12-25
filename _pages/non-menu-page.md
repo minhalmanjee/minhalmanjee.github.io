@@ -7,7 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Certifications
+CertiProf & Datacamp
 ======
 1. CertiProf Scrum Foundation Professional Certification. [View](https://drive.google.com/file/d/1qSAhr4zKRKJzSq0TNIyAhvTiuhxzAd8o/view)
 2. Cluster Analysis in Python. [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/7a72c26dc7a82363eb5e162cc4b9b41017f13238)
