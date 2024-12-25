@@ -14,7 +14,7 @@ name                     : &name "Muhammad Minhal Manjee"
 description              : &description "personal description"
 url                      : https://minhalmanjee.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "minhalmanjee/minhalmanjee.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "20171203_185810 (1).jpg"
   name             : "Minhal Manjee"
   pronouns         : # example: "she/her"  
-  bio              : "Section Leader at Stanford | SDE Fellow at Head Starter AI | AI/ML"
+  bio              : "Section Leader at Stanford | SDE Fellow at Head Starter AI"
   location         : "Pakistan"
   employer         : "FAST-NUCES"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
