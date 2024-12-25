@@ -28,9 +28,9 @@ I have participated in multiple AI International Hackathons, particularly:
 <br>
 Here are a few technologies I've been working with recently:
 <br>
-C/C++  > Python
+> > C/C++  > Python
 <br>
-> Yolov8  > Roboflow
+> > Yolov8  > Roboflow
 <br>
 > MySQL  > Mongo DB
 <br>
