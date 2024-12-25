@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Muhammad Minhal Manjee"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Muhammad Minhal Manjee"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://minhalmanjee.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,30 +21,32 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "20171203_185810 (1).jpg"
+  name             : "Minhal Manjee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Section Leader at Stanford | SDE Fellow at Head Starter AI | AI/ML"
+  location         : "Pakistan"
+  employer         : "FAST-NUCES"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "minhal.manjee@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #
+  researchgate     : "https://www.researchgate.net/profile/Muhammad-Minhal-Manjee"
   scopus           : # URL
+  LabLab           : "https://lablab.ai/u/@M4xash"
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "minhalmanjee"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,9 +60,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "muhammad-minhal-manjee-0147a713b"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "@minhal.manjee"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
