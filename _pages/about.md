@@ -28,25 +28,25 @@ I have participated in multiple AI International Hackathons, particularly:
 <br>
 Here are a few technologies I've been working with recently:
 <br>
-> > C/C++  > Python
+C/C++  || Python
 <br>
-> > Yolov8  > Roboflow
+Yolov8  || Roboflow
 <br>
-> MySQL  > Mongo DB
+MySQL  || Mongo DB
 <br>
-> SQLITE  > Git
+SQLITE  || Git
 <br>
-> Docker  > Microsoft Azure
+Docker  || Microsoft Azure
 <br>
-> Azure DevOps  > Amazon Web Services
+Azure DevOps  || Amazon Web Services
 <br>
-> Google Cloud  > Flask
+Google Cloud  || Flask
 <br>
-> OpenAI Whisper  > Jupyter Notebooks
+OpenAI Whisper  || Jupyter Notebooks
 <br>
-> Google Colab  > Django
+Google Colab  || Django
 <br>
-> Next.Js  > Onrender
+Next.Js  || Onrender
 
 
 
