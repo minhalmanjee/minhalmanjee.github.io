@@ -11,12 +11,12 @@ redirect_from:
 
 Hackathon Projects - LabLab.ai
 ======
-* Falcon AI71 Hub Hackathon [Video](https://lablab.ai/event/falcon-hackathon/cyber-titans/budgie) | [Github](https://github.com/minhalmanjee/Falcon-Hackathon-Budgie-Ai-) | [Certificate](https://lablab.ai/u/@M4xash/cm0gxv92s00ac8ztm2gwf0z0a)
+* Falcon AI71 Hub Hackathon | [Video](https://lablab.ai/event/falcon-hackathon/cyber-titans/budgie) | [Github](https://github.com/minhalmanjee/Falcon-Hackathon-Budgie-Ai-) | [Certificate](https://lablab.ai/u/@M4xash/cm0gxv92s00ac8ztm2gwf0z0a)
   * Mental Health Coach | Technologies Used: Django, Next.Js, Onrender
   * Created an Artificial Intelligence system that utilizes a finetuned model in order to serve as a coach for mental health.
   * Implemented real-time personality selection allowing users to choose their type and communicate with the coach.
 
-* Llama 3 Hackathon  [Video]((https://lablab.ai/event/llama-3-ai-hackathon/aimers/ai-news-anylazer) | [Github](https://github.com/minhalmanjee/Llama3-News-Analyzer-) | [Certificate](https://lablab.ai/u/@M4xash/cm0fgv76z004o7hkwcdcv0zte)
+* Llama 3 Hackathon |  [Video](https://lablab.ai/event/llama-3-ai-hackathon/aimers/ai-news-anylazer) | [Github](https://github.com/minhalmanjee/Llama3-News-Analyzer-) | [Certificate](https://lablab.ai/u/@M4xash/cm0fgv76z004o7hkwcdcv0zte)
   * AI News Analyzer | Technologies Used: Langchain, Llama 3, C/C++, Python
   * The tool allows users to upload an article, which it then recognizes and processes through sophisticated text recognition algorithms. 
   * We have developed two key agents within the AI News Analyzer: the News Editor and the News Analyst. 
