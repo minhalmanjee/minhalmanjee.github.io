@@ -14,5 +14,3 @@ Certifications
 3. Anomaly Detection in Python. [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/c6b4eeb60530edd0fcc3c0fe306001452f9f3cef)
 4. Dimensionality Reduction in Python. [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/9eb06ef27861e222fa9c4718693d398d30f06aed)
 
-Heading 2
-======
