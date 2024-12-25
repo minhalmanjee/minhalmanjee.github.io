@@ -6,7 +6,7 @@
 
 main:
   - title: "Projects"
-    url: /_pages/terms.md 
+    url: /projects/
 
   - title: "Experiences"
     url: /experiences/    
