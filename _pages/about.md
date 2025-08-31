@@ -44,25 +44,26 @@ Google Colab  || Cursor
 <br>
 <br>
 
-# 📘 Relevant Coursework
-<b>Software Engineering & Agile Practices</b>
->>> Gained practical understanding of Agile frameworks and traditional models (Waterfall, Spiral, Prototype).
->>> Practiced requirement engineering: elicitation, specification, validation, and defining NFR/FR.
->>> Applied project planning tools (Azure) for scope, configuration, and time management.
->>> Delivered functional specifications & prototypes through case studies and assignments.
->>> Learned software architecture design (Layered, MVC, Client/Server, Repository, SOA) and quality metrics.
->>> Practiced quality assurance & testing methodologies (black-box and white-box).
-<br>
-<b>Fundamentals of Management</b>
->>> Studied core management principles: planning, organizing, leading, and controlling.
->>> Applied efficiency vs effectiveness frameworks in organizational performance.
->>> Learned to balance people management and process management.
->>> Software Analysis & Design (UML & OOP Modeling).
-<br>
-<b>Software Analysis & Design (UML & OOP Modeling)</b>
->>> Acquired ability to represent systems using UML diagrams (use case, class, sequence).
->>> Conducted domain and requirements analysis for software projects.
->>> Learned to translate business needs into technical specifications and program visualization.
+# 📘 Relevant Coursework  
+
+**Software Engineering & Agile Practices**  
+- Gained practical understanding of Agile frameworks and traditional models (Waterfall, Spiral, Prototype).  
+- Practiced requirement engineering: elicitation, specification, validation, and defining NFR/FR.  
+- Applied project planning tools (Azure) for scope, configuration, and time management.  
+- Delivered functional specifications & prototypes through case studies and assignments.  
+- Learned software architecture design (Layered, MVC, Client/Server, Repository, SOA) and quality metrics.  
+- Practiced quality assurance & testing methodologies (black-box and white-box).  
+
+**Fundamentals of Management**  
+- Studied core management principles: planning, organizing, leading, and controlling.  
+- Applied efficiency vs effectiveness frameworks in organizational performance.  
+- Learned to balance people management and process management.  
+
+**Software Analysis & Design (UML & OOP Modeling)**  
+- Acquired ability to represent systems using UML diagrams (use case, class, sequence).  
+- Conducted domain and requirements analysis for software projects.  
+- Learned to translate business needs into technical specifications and program visualization.  
+
 
 
 
