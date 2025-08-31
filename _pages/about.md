@@ -11,9 +11,6 @@ redirect_from:
 <br>
 💻 As a Software Engineer, I bring expertise in building AI-driven applications, ranging from applying machine learning models & visualizations to developing Computer Vision systems (YOLOv8, Roboflow). I combine this with strong experience in Cloud Computing and CI/CD pipelines (Git, Azure, Azure DevOps, AWS). With a solid foundation in data science and machine learning, I can apply models to extract insights, optimize processes, and bridging the gap between technical innovation and business understanding.
 <br>
-📘 Relevant Coursework
-Completed advanced coursework in Software Engineering & Agile Practices, gaining practical experience with Agile and traditional models (Waterfall, Spiral, Prototype), requirement engineering, project planning with Azure, software architecture, and quality assurance/testing. Studied Fundamentals of Management, focusing on planning, organizing, leading, and balancing efficiency with effectiveness in organizational performance. Strengthened skills in Software Analysis & Design (UML & OOP Modeling) by conducting domain analysis, creating UML diagrams, and translating business needs into technical specifications.
-<br>
 👩‍🏫 As a Tech Trainer, I have trained international students as a Section Leader at Stanford Code In Place.
 
 # Highlights
@@ -35,21 +32,38 @@ C/C++  || Python
 <br>
 Yolov8  || Roboflow
 <br>
-MySQL  || Mongo DB
-<br>
-SQLITE  || Git
+SQL  || Git
 <br>
 Docker  || Microsoft Azure
 <br>
 Azure DevOps  || Amazon Web Services
 <br>
-Google Cloud  || Flask
-<br>
 OpenAI Whisper  || Jupyter Notebooks
 <br>
-Google Colab  || Django
+Google Colab  || Cursor
 <br>
-Next.Js  || Onrender
+<br>
+
+# 📘 Relevant Coursework
+<b>Software Engineering & Agile Practices</b>
+>>> Gained practical understanding of Agile frameworks and traditional models (Waterfall, Spiral, Prototype).
+>>> Practiced requirement engineering: elicitation, specification, validation, and defining NFR/FR.
+>>> Applied project planning tools (Azure) for scope, configuration, and time management.
+>>> Delivered functional specifications & prototypes through case studies and assignments.
+>>> Learned software architecture design (Layered, MVC, Client/Server, Repository, SOA) and quality metrics.
+>>> Practiced quality assurance & testing methodologies (black-box and white-box).
+<br>
+<b>Fundamentals of Management</b>
+>>> Studied core management principles: planning, organizing, leading, and controlling.
+>>> Applied efficiency vs effectiveness frameworks in organizational performance.
+>>> Learned to balance people management and process management.
+>>> Software Analysis & Design (UML & OOP Modeling).
+<br>
+<b>Software Analysis & Design (UML & OOP Modeling)</b>
+>>> Acquired ability to represent systems using UML diagrams (use case, class, sequence).
+>>> Conducted domain and requirements analysis for software projects.
+>>> Learned to translate business needs into technical specifications and program visualization.
+
 
 
 
