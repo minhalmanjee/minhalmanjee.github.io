@@ -9,7 +9,10 @@ redirect_from:
 
 👩🏻‍💻 I am recent graduate with a major in Computer Science from FAST NUCES.
 <br>
-💻 As a Software Engineer, I bring a diverse background with expertise in building AI Applications (Python, LLMs, RAG, OpenAI Whisper, Llama), Web Applications (Django, Next.Js, Onrender), Computer Vision Applications (Yolov8, Roboflow) and Cloud Computing - CICD Pipelines (Git, Azure, Azure DevOps, AWS, GCP).
+💻 As a Software Engineer, I bring expertise in building AI-driven applications, ranging from applying machine learning models & visualizations to developing Computer Vision systems (YOLOv8, Roboflow). I combine this with strong experience in Cloud Computing and CI/CD pipelines (Git, Azure, Azure DevOps, AWS). With a solid foundation in data science and machine learning, I can apply models to extract insights, optimize processes, and bridging the gap between technical innovation and business understanding.
+<br>
+📘 Relevant Coursework
+Completed advanced coursework in Software Engineering & Agile Practices, gaining practical experience with Agile and traditional models (Waterfall, Spiral, Prototype), requirement engineering, project planning with Azure, software architecture, and quality assurance/testing. Studied Fundamentals of Management, focusing on planning, organizing, leading, and balancing efficiency with effectiveness in organizational performance. Strengthened skills in Software Analysis & Design (UML & OOP Modeling) by conducting domain analysis, creating UML diagrams, and translating business needs into technical specifications.
 <br>
 👩‍🏫 As a Tech Trainer, I have trained international students as a Section Leader at Stanford Code In Place.
 
