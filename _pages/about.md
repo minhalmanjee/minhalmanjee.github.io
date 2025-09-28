@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💻 I am recent graduate with a major in Computer Science from FAST NUCES.
-<br>
-💻 As a Software Engineer, I bring expertise in building AI-driven applications, ranging from applying machine learning models & visualizations to developing Computer Vision systems (YOLOv8, Roboflow). I combine this with strong experience in Cloud Computing and CI/CD pipelines (Git, Azure, Azure DevOps, AWS). With a solid foundation in data science and machine learning, I can apply models to extract insights, optimize processes, and bridging the gap between technical innovation and business understanding.
-<br>
-👩‍🏫 As a Tech Trainer, I have trained international students as a Section Leader at Stanford Code In Place.
+👩🏻‍💻 I am a Graduate Research Assistant at University of Wyoming, with experience designing and delivering AI-powered applications that combine machine learning, computer vision (YOLOv8, Roboflow), and cloud-native solutions (Azure, AWS, Git, DevOps). I specialize in turning complex data into actionable insights, optimizing processes, and building scalable, user-focused systems that bridge technical innovation with business impact. Previously, I also trained international students as a Section Leader at Stanford Code In Place, strengthening my ability to communicate complex concepts and mentor effectively.
 
 # Highlights
 In the year 2024, I was selected as as a [Section Leader](https://digitalcredential.stanford.edu/check/FD5D425C196C656CC24C6D5991A113B553F4D0063B561E9963744C6D70AED9C4Y2cxK2hNdkpVYkVLZ3BGMkJMYXM0UlYwdGdxSm4vbnh3ZmZnOEp5QWxUbHlwWGMv) at [Stanford's Code in Place](https://codeinplace.stanford.edu/) 
